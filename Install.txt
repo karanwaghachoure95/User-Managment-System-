@@ -1,0 +1,8 @@
+cd backend
+npm init -y
+npm install express
+npm install mysql2
+npm install dotenv
+npm start
+cd ..
+npm install cors

@@ -1,0 +1,35 @@
+Beginner-CRUD/
+│
+├── backend/
+│   │
+│   ├── src/
+│   │   ├── controllers/
+│   │   │   └── userController.js
+│   │   │
+│   │   ├── routes/
+│   │   │   └── userRoutes.js
+│   │   │
+│   │   ├── db/
+│   │   │   └── connection.js
+│   │   │
+│   │   └── app.js
+│   │
+│   ├── .env
+│   ├── package.json
+│   └── server.js
+│
+├── frontend/
+│   │
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── UserForm.jsx
+│   │   │
+│   │   ├── App.jsx
+│   │   ├── main.jsx
+│   │   └── index.css
+│   │
+│   ├── package.json
+│   └── ...
+│
+└── database/
+    └── database.sql
