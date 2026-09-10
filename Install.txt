@@ -6,3 +6,5 @@ npm install dotenv
 npm start
 cd ..
 npm install cors
+npm start
+npm run dev

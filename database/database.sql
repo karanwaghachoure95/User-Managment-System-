@@ -1,8 +1,8 @@
 
 
-CREATE DATABASE IF NOT EXISTS beginner_crud;
+CREATE DATABASE IF NOT EXISTS UMA;
 
-USE beginner_crud;
+USE UMA;
 
 
 
